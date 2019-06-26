@@ -6,3 +6,4 @@ wget https://raw.githubusercontent.com/arhitekture/AR19/master/sort10.asm
 wget https://raw.githubusercontent.com/arhitekture/AR19/master/heming.asm
 wget https://raw.githubusercontent.com/arhitekture/AR19/master/tribr.asm
 wget https://raw.githubusercontent.com/arhitekture/AR19/master/fib.asm
+wget https://raw.githubusercontent.com/arhitektura/arh/master/rm.sh

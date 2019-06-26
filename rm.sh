@@ -1,0 +1,10 @@
+rm dl.sh
+rm fib.asm
+rm heming.asm
+rm sort.asm
+rm sort10.asm
+rm sse.asm
+rm mmx.asm
+rm muv.asm
+rm tribr.asm
+rm rm.sh
